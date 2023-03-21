@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Inter:wght@800&family=Libre+Franklin:ital,wght@1,900&display=swap');
+
+*{
+    padding:  0px;
+    margin: 0px;
+}
+
+i{
+    font-size: 60px;
+}
+
+H1 {
+  text-align: center;
+}
+
+
+
+main{
+padding: 0 100px;
+display: flex;
+}
+
+h2{
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 800px;
+    text-align: center;
+    justify-content: space-between;
+    background-color: chocolate;
+    }
+h3{
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 800px;
+    text-align: center;
+    justify-content: space-between;
+    background-color: aquamarine;
+}
+
+
+section{
+     padding: 0 100px;
+}
+
+h4{
+    box-sizing: border-box;
+    border: 1px solid black;
+    
+    width: 1600px;
+
+    justify-content: space-between;
+    background-color: crimson;
+}
+
+h4 div{
+    display: flex;
+    justify-content: space-around;
+}
+
+h5{
+    box-sizing: border-box;
+    border: 1px solid white;
+    font-size: x-large;
+    width: 1600px;
+   background-color: aquamarine;
+    justify-content: space-around;
+    text-align: center;
+   
+}
+
+label{
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 800px;
+    text-align: center;
+    justify-content: space-between;
+    background-color:crimson;
+    font-size: x-large;
+}
+
+h6 div{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+h6{
+    box-sizing: border-box;
+    border: 1px solid black;
+    background-color: aqua;
+    width: 1600px;
+    font-size: xx-large;
+
+}
+h7{
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 800px;
+    text-align: center;
+    justify-content: space-between;
+    background-color: aquamarine;
+    font-size: x-large;
+}
+
+h8{
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 800px;
+    text-align: center;
+    justify-content: space-between;
+    background-color: crimson;
+}
+
+
+
+
+
+
